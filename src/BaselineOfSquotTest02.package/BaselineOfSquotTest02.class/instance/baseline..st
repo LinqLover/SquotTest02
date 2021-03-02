@@ -2,4 +2,4 @@ baseline
 baseline: spec
 	<baseline>
 	spec for: #'common' do: [
-		spec package: 'SquotTest02'].
+		spec package: 'CTSquotTest02'].
