@@ -1,0 +1,4 @@
+OrderedDictionary {
+	'src\/BaselineOfSquotTest02.package' : #SquotCypressCodeSerializer,
+	'src\/CTSquotTest02.package' : #SquotCypressCodeSerializer
+}
