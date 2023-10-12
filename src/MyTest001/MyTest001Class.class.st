@@ -17,5 +17,5 @@ MyTest001Class >> bar [
 }
 MyTest001Class >> foo [
 
-	^ 6 * 8
+	^ 6 * 10
 ]
