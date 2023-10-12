@@ -13,9 +13,9 @@ MyTest001Class >> bar [
 
 {
 	#category : #'as yet unclassified',
-	#'squeak_changestamp' : 'ct 10/12/2023 16:16'
+	#'squeak_changestamp' : 'ct 10/12/2023 16:17'
 }
 MyTest001Class >> foo [
 
-	^ 6 * 7
+	^ 6 * 8
 ]
