@@ -1,4 +1,4 @@
 Package {
-	#name : #MyTest001,
-	#'squeak_changestamp' : true
+	#'squeak_changestamp' : true,
+	#name : #MyTest001
 }
